@@ -1,7 +1,7 @@
 # (string) Title of your wiki
-title: 
+title: bible-companion-wiki
 # (string) Description of your wiki
-description: 
+description: Bible Companion Wiki
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
@@ -21,7 +21,7 @@ permalink: /blog/posts/:year/:month/:day/:title:output_ext
 # (boolean) Enable/disable download buttons in sidebar
 show_downloads: true
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
-git_branch: "master"
+git_branch: "gh-pages"
 # (string) Url of logo image, it can be full, absolute or relative.
 logo_url: 
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
