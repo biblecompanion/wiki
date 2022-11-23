@@ -1,8 +1,19 @@
 ---
-redirect_from: "/"
+redirect_from: /
+published: true
 ---
 
-This is a sample of main page. You can edit it to start your wiki.
+# Welcome to the Bible Companion Wiki
 
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
+There are many things..
 
+## Who this is meant for
+
+## Second
+### Second.1
+
+
+### Third
+
+
+### Etc
