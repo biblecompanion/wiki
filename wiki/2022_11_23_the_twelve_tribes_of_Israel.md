@@ -10,11 +10,11 @@
 | | | |Zebulun | |Zebulun |Zabulon |
 | |⮩ |Zilpah |Gad | |Gad |Gad |
 | | | |Asher | |Asher |Aser |
-| |⮫ |Bilha |Dan | | | |
+| |⮫ |Bilha |Dan | |Dan| |
 | | | |Naphtali | |Naphtali |Nepthalim |
 | | Rachel| |Joseph | |- |Joseph |
 | |       | |   ⮩    | Manasseh |Manasseh |Manasses|
-| |       | |   ↳    | Ephraim | ||
+| |       | |   ↳    | Ephraim |Ephraim ||
 | | | |Benjamin | |Benjamin |Benjamin|
 
 
