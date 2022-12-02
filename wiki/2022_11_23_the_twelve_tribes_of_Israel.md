@@ -8,13 +8,13 @@
 | | | |Judah | |Judah |Judah |
 | | | |Issachar | |Issachar |Issachar |
 | | | |Zebulun | |Zebulun |Zabulon |
-| | |Zilpah |Gad | |Gad |Gad |
+| |⮩ |Zilpah |Gad | |Gad |Gad |
 | | | |Asher | |Asher |Aser |
-| | |Bilha |Dan | | | |
+| |⮫ |Bilha |Dan | | | |
 | | | |Naphtali | |Naphtali |Nepthalim |
 | | Rachel| |Joseph | |- |Joseph |
-| |       | |       | Manasseh |Manasseh |Manasses|
-| |       | |       | Ephraim | ||
+| |       | |   ⮩    | Manasseh |Manasseh |Manasses|
+| |       | |   ↳    | Ephraim | ||
 | | | |Benjamin | |Benjamin |Benjamin|
 
 
