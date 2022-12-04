@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Sarcasm in the Bible
 
