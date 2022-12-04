@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Similes in the Bible
 
