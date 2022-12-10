@@ -3,6 +3,7 @@
 ## Exodus and Deuteronomy
 |#|Exodus|About|Deuteronomy|
 |-----|------|-----|-----------|
+
 |1|I [am] the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage. Thou shalt have no other gods before me.|God|I [am] the LORD thy God, which brought thee out of the land of Egypt, from the house of bondage. Thou shalt have none other gods before me.|
 
 |2|Thou shalt not make unto thee any graven image, or any likeness [of any thing] that [is] in heaven above, or that [is] in the earth beneath, or that [is] in the water under the earth: Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God [am] a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth [generation] of them that hate me; And showing mercy unto thousands of them that love me, and keep my commandments. |God|Thou shalt not make thee [any] graven image, [or] any likeness [of any thing] that [is] in heaven above, or that [is] in the earth beneath, or that [is] in the waters beneath the earth: Thou shalt not bow down thyself unto them, nor serve them: for I the LORD thy God [am] a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth [generation] of them that hate me, And showing mercy unto thousands of them that love me and keep my commandments.|
@@ -18,6 +19,7 @@
 ## The Bible and Catholics
 |#|Exodus|Catholic #|Catechism of the Catholic Church|
 |--|------|-|----------|
+
 |1|I [am] the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage. Thou shalt have no other gods before me.|1|I am the Lord your God: you shall have no strange gods before me. |
 
 |2|Thou shalt not make unto thee any graven image, or any likeness [of any thing] that [is] in heaven above, or that [is] in the earth beneath, or that [is] in the water under the earth: Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God [am] a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth [generation] of them that hate me; And showing mercy unto thousands of them that love me, and keep my commandments. |-|-|
@@ -30,3 +32,19 @@
 |9|Thou shalt not bear false witness against thy neighbour.|8|You shall not bear false witness against your neighbour. |
 |10|Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that [is] thy neighbour's.|9|You shall not covet your neighbour's wife.|
 |-| - |10|You shall not covet your neighbour's goods.|
+
+## The Summary of the Commandments
+|Book|First|Second|
+|----|-----|------|
+|Matthew 22:36-40|Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.|Thou shalt love thy neighbour as thyself.|
+|Mark 12:29-31|  Hear, O Israel; The Lord our God is one Lord: And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength|Thou shalt love thy neighbour as thyself.|
+|Deuteronomy 6:4-5|Hear, O Israel: The LORD our God [is] one LORD:  Hear, O Israel: The LORD our God [is] one LORD: And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.  | |
+
+### The First Commandment
+|Member|Matthew | Mark |Deuteronomy|
+|------|--------|------|----|
+|Heart|✓ |✓ |✓|
+|Soul|✓ |✓ |✓|
+|Mind|✓ |✓ ||
+|Strength| |✓ ||
+|Might| | |✓|
