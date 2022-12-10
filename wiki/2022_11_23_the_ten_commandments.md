@@ -33,6 +33,22 @@
 
 ## The Number of Commandments
 
-In the instances where the commandments have been enumerated in the new testament, they have either been the summary having the two commandments or the a short list of only 5, with the exception of Mark 10 where Christ also add another commandment, "Defraud not". But we can be sure that God gave to Moses two tablets of stone having ten commandments. For the record says, "And he was there with the LORD forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, *the ten commandments.*" *Exodus 34:28*. "And he declared unto you his covenant, which he commanded you to perform, [even] *ten commandments*; and he wrote them upon two tables of stone." *Deuteronomy 4:13* "And he wrote on the tables, according to the first writing, *the ten commandments,* which the LORD spake unto you in the mount out of the midst of the fire in the day of the assembly: and the LORD gave them unto me" *Deuteronomy 10:4*
+In the instances where the commandments have been enumerated in the new testament, they have either been the summary having the two commandments or a short list of only 5, with the exception of Mark 10 where Christ also adds another commandment, "Defraud not". But we can be sure that God gave to Moses two tablets of stone having ten commandments. For the record says, "And he was there with the LORD forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, *the ten commandments.*" *Exodus 34:28*. "And he declared unto you his covenant, which he commanded you to perform, [even] *ten commandments*; and he wrote them upon two tables of stone." *Deuteronomy 4:13* "And he wrote on the tables, according to the first writing, *the ten commandments,* which the LORD spake unto you in the mount out of the midst of the fire in the day of the assembly: and the LORD gave them unto me." *Deuteronomy 10:4*
+
+
+## The Commandments Listed in the New Testament 
+
+|#|Commandment |Matt. 5|Matt. 19:18-19 |Mark 10:19 | Rom. 13:9|
+|-|------------|-------|---------------|-----------|----------|
+|3|Thou shalt not take the name of the LORD thy God in vain|✓ (v. 33-37)||||
+|4|Remember the Sabbath  day to keep it holy|||||
+|5|Honour thy father and [thy] mother||✓|✓||
+|6|Thou shalt not kill|✓ (v. 21-26)|✓|✓|✓|
+|7|Thou shalt not commit adultery|✓ (v. 27-32)|✓|✓|✓|
+|8|Thou shalt not steal||✓|✓|✓|
+|9|Thou shalt not bear false witness||✓|✓|✓|
+|10|Thou shalt not covet||||✓|
+|8| Defraud not |||✓||
+|Summary| Thou shalt love thy neighbour as thyself|✓ (v. 43-47)|✓||✓|
 
 
