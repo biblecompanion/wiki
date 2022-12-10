@@ -1,7 +1,7 @@
 # The ten commandments
 
 |#|Exodus|About|Deuteronomy|
-|-------------|-----|---|
+|-|------------|-----|---|
 |1|Thou shalt have no other gods before me.|God|Thou shalt have none other gods before me.|
 |2|Thou shalt not make unto thee any graven image, or any likeness [of any thing] that [is] in heaven above, or that [is] in the earth beneath, or that [is] in the water under the earth: Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God [am] a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth [generation] of them that hate me; And showing mercy unto thousands of them that love me, and keep my commandments. |God||
 |3|Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.|God||
