@@ -51,4 +51,27 @@ In the instances where the commandments have been enumerated in the new testamen
 |8| Defraud not |||✓||
 |Summary| Thou shalt love thy neighbour as thyself|✓ (v. 43-47)|✓||✓|
 
+## The Summary of the Ten Commandments
+From Paul we learn that the commandments can be summarized, or "briefly comprehended". He says, "if [there be] any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself." Romans 13:9. Also "all the law is fulfilled in one word, [even] in this; Thou shalt love thy neighbour as thyself." Gal. 5:14. James gives the same summary for the last 6 commandments, calling it the royal law: "If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well." Jas.  2:8	
+
+|Book|First|Second|
+|----|-----|------|
+|Matthew 22:36-40|Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.|Thou shalt love thy neighbour as thyself.|
+|Mark 12:29-31|  Hear, O Israel; The Lord our God is one Lord: And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength|Thou shalt love thy neighbour as thyself.|
+|Deuteronomy 6:4-5|Hear, O Israel: The LORD our God [is] one LORD:  Hear, O Israel: The LORD our God [is] one LORD: And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.  | |
+|Leviticus 19:18| - |Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I [am] the LORD.|
+
+While the summary of those commandments that deal with our relationship to our fellow men is uniformly stated as "Thou shalt love thy neighbour as thyself", the summary of the first portion of the commandments is variantly given.
+
+### The First Commandment
+
+|Member|Matthew | Mark |Deuteronomy|
+|------|--------|------|----|
+|Heart|✓ |✓ |✓|
+|Soul|✓ |✓ |✓|
+|Mind|✓ |✓ ||
+|Strength| |✓ ||
+|Might| | |✓|
+
+
 
