@@ -2,7 +2,7 @@
 
 ## Exodus and Deuteronomy
 |#|Exodus|About|Deuteronomy|
-|-|------|-----|-----------|
+|--|------|-----|-----------|
 |1|I [am] the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage. Thou shalt have no other gods before me.|God|I [am] the LORD thy God, which brought thee out of the land of Egypt, from the house of bondage. Thou shalt have none other gods before me.|
 |2|Thou shalt not make unto thee any graven image, or any likeness [of any thing] that [is] in heaven above, or that [is] in the earth beneath, or that [is] in the water under the earth: Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God [am] a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth [generation] of them that hate me; And showing mercy unto thousands of them that love me, and keep my commandments. |God|Thou shalt not make thee [any] graven image, [or] any likeness [of any thing] that [is] in heaven above, or that [is] in the earth beneath, or that [is] in the waters beneath the earth: Thou shalt not bow down thyself unto them, nor serve them: for I the LORD thy God [am] a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth [generation] of them that hate me, And showing mercy unto thousands of them that love me and keep my commandments.|
 |3|Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.|God|Thou shalt not take the name of the LORD thy God in vain: for the LORD will not hold [him] guiltless that taketh his name in vain.|
@@ -16,7 +16,7 @@
 
 ## The Bible and Catholics
 |#|Exodus|Catholic #|Catechism of the Catholic Church|
-|-|------|-|----------|
+|--|------|-|----------|
 |1|I [am] the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage. Thou shalt have no other gods before me.|1|I am the Lord your God: you shall have no strange gods before me. |
 |2|Thou shalt not make unto thee any graven image, or any likeness [of any thing] that [is] in heaven above, or that [is] in the earth beneath, or that [is] in the water under the earth: Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God [am] a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth [generation] of them that hate me; And showing mercy unto thousands of them that love me, and keep my commandments. |-|-|
 |3|Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.|2|You shall not take the name of the Lord your God in vain.|
