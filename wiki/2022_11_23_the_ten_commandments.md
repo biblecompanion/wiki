@@ -31,25 +31,8 @@
 |10|Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that [is] thy neighbour's.|9|You shall not covet your neighbour's wife.|
 |-| - |10|You shall not covet your neighbour's goods.|
 
-## The Summary of the Commandments
-Rom. 13:9	For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if [there be] any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself. 
-Gal 5:14	For all the law is fulfilled in one word, [even] in this; Thou shalt love thy neighbour as thyself. 
-Jas.  2:8	If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well.
+## The Number of Commandments
 
-|Book|First|Second|
-|----|-----|------|
-|Matthew 22:36-40|Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.|Thou shalt love thy neighbour as thyself.|
-|Mark 12:29-31|  Hear, O Israel; The Lord our God is one Lord: And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength|Thou shalt love thy neighbour as thyself.|
-|Deuteronomy 6:4-5|Hear, O Israel: The LORD our God [is] one LORD:  Hear, O Israel: The LORD our God [is] one LORD: And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.  | |
-|Leviticus 19:18| - |Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I [am] the LORD.|
+In the instances where the commandments have been enumerated in the new testament, they have either been the summary having the two commandments or the a short list of only 5, with the exception of Mark 10 where Christ also add another commandment, "Defraud not". But we can be sure that God gave to Moses two tablets of stone having ten commandments. For the record says, "And he was there with the LORD forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, *the ten commandments.*" *Exodus 34:28*. "And he declared unto you his covenant, which he commanded you to perform, [even] *ten commandments*; and he wrote them upon two tables of stone." *Deuteronomy 4:13* "And he wrote on the tables, according to the first writing, *the ten commandments,* which the LORD spake unto you in the mount out of the midst of the fire in the day of the assembly: and the LORD gave them unto me" *Deuteronomy 10:4*
 
-### The First Commandment
-
-|Member|Matthew | Mark |Deuteronomy|
-|------|--------|------|----|
-|Heart|✓ |✓ |✓|
-|Soul|✓ |✓ |✓|
-|Mind|✓ |✓ ||
-|Strength| |✓ ||
-|Might| | |✓|
 
